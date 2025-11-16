@@ -14,8 +14,8 @@
 
 - **📹 Video Demo**: [Watch on YouTube](#) 
 - **🌐 Live Platform**: [MAMMO-SCAN AI Web App](https://mammo-scan.scorea.io/)
-- **🌐 Dashboard**: [MAMMO-SCAN AI Web App](https://mammo-scan.scorea.io/dashboard/)
-- **📊 Presentation Slides**: [View Slides](#) 
+- **🌐 Dashboard**: [MAMMO-SCAN AI Dashboard UI/UX Web App](https://mammo-scan.scorea.io/dashboard/)
+- **📊 Presentation Slides**: [View Slides](https://drive.google.com/drive/folders/1PJIul70cq97MFpTGH4UlGchCJcPppvu7?usp=drive_link) 
 
 ---
 
