@@ -12,7 +12,7 @@
 
 ## 🎥 Demo & Presentation
 
-- **📹 Video Demo**: [Watch on YouTube](#) *(Add your video link)*
+- **📹 Video Demo**: [Watch on YouTube](#) 
 - **🌐 Live Platform**: [MAMMO-SCAN AI Web App](https://mammo-scan.scorea.io/)
 - **🌐 Dashboard**: [MAMMO-SCAN AI Web App](https://mammo-scan.scorea.io/dashboard/)
 - **📊 Presentation Slides**: [View Slides](#) 
